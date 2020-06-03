@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.naufalprakoso.benchmark"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:debuggable="false"
+        tools:ignore="HardcodedDebugMode"
+        tools:replace="android:debuggable"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.naufalprakoso.coffee.listview.ListViewActivity"/>
+        <activity android:name="com.naufalprakoso.coffee.recyclerview.RecyclerViewActivity"/>
+    </application>
+</manifest>

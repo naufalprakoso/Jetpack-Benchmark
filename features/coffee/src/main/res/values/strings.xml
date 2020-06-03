@@ -1,0 +1,13 @@
+<resources>
+    <array name="titles">
+        <item>Espresso</item>
+        <item>Cappuccino</item>
+    </array>
+
+    <array name="images">
+        <item>https://static.scientificamerican.com/sciam/cache/file/7C0BADB7-D030-4E4E-BE715FB20458C51E_source.jpg</item>
+        <item>https://coffee-brewing-methods.com/wp-content/uploads/2015/02/latte-e1480037054821.jpg</item>
+    </array>
+
+    <string name="text_hello">Hello</string>
+</resources>
